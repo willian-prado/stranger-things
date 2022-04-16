@@ -26,6 +26,14 @@ Adaptar e configurar o deploy do front-end e back-end de uma aplicação utiliza
 - <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" align="center" height="35"/> - React</a>
 - <a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku" align="center" width="30" height="30"/> - Heroku</a>
 
+**Deploy da aplicação**
+
+Deploy no `Heroku` do Front-end da aplicação: https://willian-prado-pd.herokuapp.com/.
+
+Deploy no `Heroku` do Back-end da aplicação:
+  * Modo normal: https://willian-prado-bd.herokuapp.com/
+  * Modo *upside-down*: https://willian-prado-bk.herokuapp.com/
+
 ---
 
 ### Descrição da aplicação
