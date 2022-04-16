@@ -4,7 +4,7 @@
 
 **Contexto**
 
-No bloco desse projeto aprendemos a realizar o deploy do Front-end e Back-end de nossas aplicações utilizando o `Heroku`.
+No bloco desse projeto aprendemos a realizar o deploy do front-end e back-end de nossas aplicações utilizando o `Heroku`.
 Diferentemente dos projetos anteriores, o código desse projeto foi inteiramente desenvolvido pela `Trybe`. 
 Nosso objetivo se resume a modificar o valor de algumas variáveis, definir variáveis de ambiente e configurar o deploy da aplicação.
 
@@ -30,9 +30,9 @@ Adaptar e configurar o deploy do front-end e back-end de uma aplicação utiliza
 
 **Deploy**
 
-Deploy no `Heroku` do Front-end da aplicação: https://willian-prado-pd.herokuapp.com/.
+Deploy do front-end da aplicação: https://willian-prado-pd.herokuapp.com/.
 
-Deploy no `Heroku` do Back-end da aplicação:
+Deploy do back-end da aplicação:
   * Modo normal: https://willian-prado-bd.herokuapp.com/
   * Modo *upside-down*: https://willian-prado-bk.herokuapp.com/
 
