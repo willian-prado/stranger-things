@@ -95,7 +95,7 @@ Adicione o módulo PM2 à API.
 
 #### 3 - Verifica a configuração do ecosystem.config.yml
 
-Adicione o [arquivo](https://app.betrybe.com/course/back-end/deployment/deploy-gerenciadores-de-processos/915a6dce-162b-4015-b499-31ecae9e9411/conteudo/a3b991be-5a2d-4a82-9a38-d96eab5534b5/ecosystem-file/90d1dda4-555a-4cc3-9757-22d72836e230?use_case=side_bar) `ecosystem.config.yml`. O arquivo deverá realizar as seguintes configurações:
+Adicione o arquivo `ecosystem.config.yml`. O arquivo deverá realizar as seguintes configurações:
 
   1. Ativar o Modo Cluster;
   2. Subir duas instâncias do processo;
