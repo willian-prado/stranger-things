@@ -4,7 +4,9 @@
 
 **Contexto**
 
-O código desse projeto foi inteiramente desenvolvido pela `Trybe` e nosso objetivo se resume a modificar o valor de variáveis, definir variáveis de ambiente e configurar o deploy da aplicação (front-end e back-end). 
+No bloco desse projeto aprendemos a realizar o deploy do Front-end e Back-end de nossas aplicações utilizando o `Heroku`.
+Diferentemente dos projetos anteriores, o código desse projeto foi inteiramente desenvolvido pela `Trybe`. 
+Nosso objetivo se resume a modificar o valor de algumas variáveis, definir variáveis de ambiente e configurar o deploy da aplicação.
 
 **Objetivo do projeto**
 
