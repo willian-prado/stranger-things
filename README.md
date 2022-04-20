@@ -1,6 +1,6 @@
 ## Projeto Stranger Things
 
-> Décimo projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
+> Décimo projeto do módulo de Back-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
@@ -196,3 +196,6 @@ Utilize a estratégia de multi-ambientes no frontend. Para isso:
 
    - Lembre-se que a boa prática para essa situação é criar uma variável de ambiente para controlar esse comportamento, configurando-a para ter um valor diferente em cada um dos ambientes.
 
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
